@@ -1,0 +1,32 @@
+_repo: A-Man-s-Woman_16096
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norris, Frank
+    alias: Norris, Benjamin Franklin
+    birthdate: 1870
+    deathdate: 1902
+    gutenberg_agent_id: '103'
+    url: http://www.gutenberg.org/2009/agents/103
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Norris
+description: An intrepid explorer who returns from an Arctic expedition to earn the
+  love of an independent woman. A naturalist, Frank Norris was intrigued by the new
+  science of psychology, which is reflected in this novel as he attempts to explore
+  the power dynamic in a male-female relationship.
+gutenberg_issued: '2005-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arctic regions -- Discovery and exploration -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: A Man's Woman
+url: http://www.gutenberg.org/ebooks/16096
